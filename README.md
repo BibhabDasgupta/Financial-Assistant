@@ -18,6 +18,27 @@ It includes:
 
 ---
 
+## 🧱 Repository Layout
+
+Now your structure looks like this:
+
+```
+Financial-Assistant/
+├── frontend/   → linked to Financial-Assistant-Frontend repo
+├── backend/    → linked to Financial-Assistant-Backend repo
+└── README.md   → overview (the one you’re reading)
+```
+
+When someone clones your main repo, they should run:
+
+```bash
+git clone --recurse-submodules https://github.com/BibhabDasgupta/Financial-Assistant.git
+```
+
+This ensures the frontend and backend submodules are cloned automatically.
+
+---
+
 ## 🧠 Overview
 
 The **Finance Assistant** allows authenticated users to:
@@ -364,8 +385,17 @@ This sets up:
 ## 📬 Contact
 
 **Developer:** [Bibhab Dasgupta](https://github.com/BibhabDasgupta)
-📧 Email: (add your preferred email or LinkedIn link)
 🌐 Backend Repo: [Financial-Assistant-Backend](https://github.com/BibhabDasgupta/Financial-Assistant-Backend)
 🌐 Frontend Repo: [Financial-Assistant-Frontend](https://github.com/BibhabDasgupta/Financial-Assistant-Frontend)
+
+---
+
+✅ **Summary**:
+This `README.md` is now perfect for your **main repository** — it contains:
+
+* links to both sub-repos
+* submodule cloning instruction
+* structure overview
+* all project details (features, setup, API, architecture, etc.)
 
 ---
