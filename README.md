@@ -16,7 +16,7 @@ It includes:
 | Model / Document | Link |
 | ---------------- | ---- |
 | System Architecture Diagram | [View Architecture Diagram](https://shorturl.at/hrW6j) |
-| Use Case Diagram | [View Use Case Diagram](https://shorturl.at/WnVB5) |
+| Use Case Diagram | [View Use Case Diagram](https://drive.google.com/file/d/14nV-c8ZbrvzFRhCtZqC0-U1ngQJCTtXw/view?usp=sharing) |
 | Entity Relationship Diagram (ERD) | [View ERD](https://shorturl.at/e7Fsf) |
 | Sequence Diagram for OAuth | [View Sequence Diagram for OAuth](https://drive.google.com/file/d/1CpNpMwJ_RNSnvj1bJKLPeevAFXt2FgsQ/view?usp=sharing) |
 | Sequence Diagram for OCR Processing | [View Sequence Diagram for OCR Processing](https://drive.google.com/file/d/1XiqVd1LffUdhVYs6Qo1UDa6DW2On1aEk/view?usp=sharing) |
