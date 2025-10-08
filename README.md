@@ -2,10 +2,25 @@
 
 A **full-stack, production-ready Personal Finance Assistant** that helps users manage their income, expenses, budgets, recurring transactions, and receipts — complete with analytics, exports, and notifications.
 
+**Demo Video Link:** [https://shorturl.at/RuPgR](https://shorturl.at/RuPgR)
+
 It includes:
 
 * A **Node.js + Express backend** with OAuth, JWT, OCR, background jobs, and analytics.
 * A **React + TypeScript frontend** built with Vite and Tailwind CSS for a modern, responsive user experience.
+
+---
+
+## 📘 Design Models and Documentation
+
+| Model / Document | Link |
+| ---------------- | ---- |
+| System Architecture Diagram | [View Architecture Diagram](https://shorturl.at/hrW6j) |
+| Use Case Diagram | [View Use Case Diagram](https://shorturl.at/WnVB5) |
+| Entity Relationship Diagram (ERD) | [View ERD](https://shorturl.at/e7Fsf) |
+| Sequence Diagram for OAuth | [View Sequence Diagram for OAuth](https://drive.google.com/file/d/1CpNpMwJ_RNSnvj1bJKLPeevAFXt2FgsQ/view?usp=sharing) |
+| Sequence Diagram for OCR Processing | [View Sequence Diagram for OCR Processing](https://drive.google.com/file/d/1XiqVd1LffUdhVYs6Qo1UDa6DW2On1aEk/view?usp=sharing) |
+| Sequence Diagram for Budget Check | [View Sequence Diagram for Budget Check](https://drive.google.com/file/d/1gjEYp-ejcM693oYz2sDrvkEFiOTYc9qb/view?usp=sharing) |
 
 ---
 
