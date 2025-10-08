@@ -391,7 +391,7 @@ This sets up:
 ---
 
 ✅ **Summary**:
-This `README.md` is now perfect for your **main repository** — it contains:
+This `README.md` is now perfect for **main repository** — it contains:
 
 * links to both sub-repos
 * submodule cloning instruction
